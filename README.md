@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JosephPaz&show_icons=true&&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fff&hide=issues,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephpaz&title_color=41b883&text_colo=273849&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
 
 <img alt="VueJS" src="https://img.shields.io/badge/VUEJS-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge">
 <img alt="ReactJS" src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=black&style=for-the-badge">
